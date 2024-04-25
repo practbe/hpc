@@ -1,3 +1,3 @@
 For run program in terminal
-g++ hpc.cpp
-./a.out
+1.  g++ hpc.cpp
+2.  ./a.out
